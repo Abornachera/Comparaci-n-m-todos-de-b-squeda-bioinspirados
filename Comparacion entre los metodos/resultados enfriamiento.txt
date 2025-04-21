@@ -1,0 +1,1026 @@
+-= MÉTODOS DE BUSQUEDA BIOINSPIRADOS: ENFRIAMIENTO SIMULADO - PROBLEMA DE LA MOCHILA =-
+
+-= Ejecutando 35 experimentos, capacidad máxima de la mochila: 10 kg, cantidad de items: 10 =-
+
+-= Ejecución 1/35 =-
+
+Mejor valor encontrado: 726,971
+Peor valor encontrado: 631,051
+Tiempo de ejecución: 0.009055 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 2/35 =-
+
+Mejor valor encontrado: 603,778
+Peor valor encontrado: 507,858
+Tiempo de ejecución: 0.008999 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 3/35 =-
+
+Mejor valor encontrado: 399,067
+Peor valor encontrado: 399,067
+Tiempo de ejecución: 0.008991 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 4/35 =-
+
+Mejor valor encontrado: 845,136
+Peor valor encontrado: 581,503
+Tiempo de ejecución: 0.009082 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 5/35 =-
+
+Mejor valor encontrado: 615,980
+Peor valor encontrado: 393,389
+Tiempo de ejecución: 0.008892 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 6/35 =-
+
+Mejor valor encontrado: 821,057
+Peor valor encontrado: 769,277
+Tiempo de ejecución: 0.008880 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 7/35 =-
+
+Mejor valor encontrado: 728,552
+Peor valor encontrado: 610,117
+Tiempo de ejecución: 0.008753 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 8/35 =-
+
+Mejor valor encontrado: 663,785
+Peor valor encontrado: 577,570
+Tiempo de ejecución: 0.008415 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 9/35 =-
+
+Mejor valor encontrado: 317,637
+Peor valor encontrado: 317,637
+Tiempo de ejecución: 0.008545 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 10/35 =-
+
+Mejor valor encontrado: 583,020
+Peor valor encontrado: 583,020
+Tiempo de ejecución: 0.008402 segundos
+Iteraciones totales: 2000
+
+-= Ejecución 11/35 =-
+[INFO] Muy alta variación detectada (26.80%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 567,336
+Peor valor encontrado: 567,336
+Tiempo de ejecución: 0.023182 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 12/35 =-
+[INFO] Muy alta variación detectada (25.84%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 732,390
+Peor valor encontrado: 636,470
+Tiempo de ejecución: 0.022927 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 13/35 =-
+[INFO] Muy alta variación detectada (24.78%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 748,038
+Peor valor encontrado: 748,038
+Tiempo de ejecución: 0.022732 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 14/35 =-
+[INFO] Muy alta variación detectada (23.92%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 958,887
+Peor valor encontrado: 879,594
+Tiempo de ejecución: 0.022245 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 15/35 =-
+[INFO] Muy alta variación detectada (25.58%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 665,432
+Peor valor encontrado: 514,779
+Tiempo de ejecución: 0.023183 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 16/35 =-
+[INFO] Muy alta variación detectada (24.65%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 788,826
+Peor valor encontrado: 788,826
+Tiempo de ejecución: 0.022876 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 17/35 =-
+[INFO] Muy alta variación detectada (23.98%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 588,113
+Peor valor encontrado: 561,682
+Tiempo de ejecución: 0.022658 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 18/35 =-
+[INFO] Muy alta variación detectada (23.60%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 363,922
+Peor valor encontrado: 363,922
+Tiempo de ejecución: 0.022853 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 19/35 =-
+[INFO] Muy alta variación detectada (25.94%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 579,820
+Peor valor encontrado: 395,191
+Tiempo de ejecución: 0.023063 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 20/35 =-
+[INFO] Muy alta variación detectada (25.48%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 546,666
+Peor valor encontrado: 546,666
+Tiempo de ejecución: 0.022939 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 21/35 =-
+[INFO] Muy alta variación detectada (25.24%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 366,583
+Peor valor encontrado: 366,583
+Tiempo de ejecución: 0.023444 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 22/35 =-
+[INFO] Muy alta variación detectada (26.87%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 633,382
+Peor valor encontrado: 633,382
+Tiempo de ejecución: 0.022975 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 23/35 =-
+[INFO] Muy alta variación detectada (26.21%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 540,061
+Peor valor encontrado: 540,061
+Tiempo de ejecución: 0.024487 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 24/35 =-
+[INFO] Muy alta variación detectada (25.94%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 974,301
+Peor valor encontrado: 974,301
+Tiempo de ejecución: 0.022750 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 25/35 =-
+[INFO] Muy alta variación detectada (27.18%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 919,169
+Peor valor encontrado: 823,249
+Tiempo de ejecución: 0.022593 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 26/35 =-
+[INFO] Muy alta variación detectada (27.52%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 594,930
+Peor valor encontrado: 594,930
+Tiempo de ejecución: 0.023064 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 27/35 =-
+[INFO] Muy alta variación detectada (27.11%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 711,082
+Peor valor encontrado: 684,651
+Tiempo de ejecución: 0.022498 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 28/35 =-
+[INFO] Muy alta variación detectada (26.55%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 905,693
+Peor valor encontrado: 809,773
+Tiempo de ejecución: 0.022935 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 29/35 =-
+[INFO] Muy alta variación detectada (26.71%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 583,498
+Peor valor encontrado: 583,498
+Tiempo de ejecución: 0.023041 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 30/35 =-
+[INFO] Muy alta variación detectada (26.42%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 902,555
+Peor valor encontrado: 781,286
+Tiempo de ejecución: 0.022477 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 31/35 =-
+[INFO] Muy alta variación detectada (26.51%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 797,919
+Peor valor encontrado: 797,919
+Tiempo de ejecución: 0.022729 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 32/35 =-
+[INFO] Muy alta variación detectada (26.14%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 632,343
+Peor valor encontrado: 509,992
+Tiempo de ejecución: 0.022697 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 33/35 =-
+[INFO] Muy alta variación detectada (25.78%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 896,149
+Peor valor encontrado: 869,718
+Tiempo de ejecución: 0.022413 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 34/35 =-
+[INFO] Muy alta variación detectada (25.78%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 995,772
+Peor valor encontrado: 849,691
+Tiempo de ejecución: 0.022296 segundos
+Iteraciones totales: 5370
+
+-= Ejecución 35/35 =-
+[INFO] Muy alta variación detectada (26.29%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 731,889
+Peor valor encontrado: 731,889
+Tiempo de ejecución: 0.023260 segundos
+Iteraciones totales: 5370
+
+==================================================
+Resumen Estadístico de las Ejecuciones
+==================================================
+Valor promedio: 686,564
+Mejor valor: 995,772
+Peor valor: 317,637
+Desviación estándar de valores: 177,662.76
+
+Tiempo promedio: 0.0189 segundos
+Iteraciones promedio: 4,407
+
+Iteración de la mejor solución: 34
+Iteración de la peor solución: 9
+
+[INFO] Gráfica guardada como: graficas_resultados\valores_y_distribucion_config_base.png
+
+[INFO] Gráfica guardada como: graficas_resultados\convergencia_promedio_config_base.png
+
+==================================================
+Mejor Solución Encontrada en Todas las Ejecuciones
+==================================================
+Item 2.0: 2.0 unidades - Peso: 1.622 kg - Valor: $50,698
+Item 3.0: 1 unidades - Peso: 0.886 kg - Valor: $53,997
+Item 4.0: 2 unidades - Peso: 1.654 kg - Valor: $100,322
+Item 6.0: 3 unidades - Peso: 1.014 kg - Valor: $266,127
+Item 7.0: 1 unidades - Peso: 0.872 kg - Valor: $64,438
+Item 8.0: 2 unidades - Peso: 2.376 kg - Valor: $172,430
+Item 9.0: 3.0 unidades - Peso: 1.326 kg - Valor: $287,760
+
+Peso total: 9.750 kg / 10 kg
+Valor total: $995,772
+
+==================================================
+Peor Solución Encontrada en Todas las Ejecuciones
+==================================================
+Item 1.0: 2 unidades - Peso: 1.202 kg - Valor: $52,862
+Item 5.0: 5 unidades - Peso: 8.615 kg - Valor: $264,775
+
+Peso total: 9.817 kg / 10 kg
+Valor total: $317,637
+
+================================================================================
+  RESULTADOS EXPERIMENTALES - MÉTODO DE ENFRIAMIENTO SIMULADO (MOCHILA) 
+================================================================================
+
+Comparando configuraciones de parámetros:
+
+============================================================
+  INICIANDO EJECUCIONES PARA: Config A
+============================================================
+
+[Config A] Ejecución 1/40
+
+Mejor valor encontrado: 584,738
+Peor valor encontrado: 584,738
+Tiempo de ejecución: 0.012412 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 2/40
+
+Mejor valor encontrado: 779,792
+Peor valor encontrado: 753,361
+Tiempo de ejecución: 0.008394 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 3/40
+
+Mejor valor encontrado: 478,997
+Peor valor encontrado: 383,077
+Tiempo de ejecución: 0.008547 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 4/40
+
+Mejor valor encontrado: 553,930
+Peor valor encontrado: 553,930
+Tiempo de ejecución: 0.008450 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 5/40
+
+Mejor valor encontrado: 623,812
+Peor valor encontrado: 623,812
+Tiempo de ejecución: 0.008347 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 6/40
+
+Mejor valor encontrado: 612,279
+Peor valor encontrado: 612,279
+Tiempo de ejecución: 0.008381 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 7/40
+
+Mejor valor encontrado: 544,766
+Peor valor encontrado: 544,766
+Tiempo de ejecución: 0.008466 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 8/40
+
+Mejor valor encontrado: 814,693
+Peor valor encontrado: 333,504
+Tiempo de ejecución: 0.008356 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 9/40
+
+Mejor valor encontrado: 855,107
+Peor valor encontrado: 565,043
+Tiempo de ejecución: 0.008406 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 10/40
+
+Mejor valor encontrado: 423,879
+Peor valor encontrado: 423,879
+Tiempo de ejecución: 0.008330 segundos
+Iteraciones totales: 2000
+
+[Config A] Ejecución 11/40
+[INFO] Muy alta variación detectada (23.04%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 696,207
+Peor valor encontrado: 493,819
+Tiempo de ejecución: 0.022544 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 12/40
+[INFO] Muy alta variación detectada (21.89%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 427,242
+Peor valor encontrado: 427,242
+Tiempo de ejecución: 0.022406 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 13/40
+[INFO] Muy alta variación detectada (23.52%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 713,065
+Peor valor encontrado: 713,065
+Tiempo de ejecución: 0.022618 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 14/40
+[INFO] Muy alta variación detectada (22.67%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 974,301
+Peor valor encontrado: 828,220
+Tiempo de ejecución: 0.022351 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 15/40
+[INFO] Muy alta variación detectada (25.43%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 536,225
+Peor valor encontrado: 536,225
+Tiempo de ejecución: 0.022452 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 16/40
+[INFO] Muy alta variación detectada (25.21%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 670,746
+Peor valor encontrado: 670,746
+Tiempo de ejecución: 0.023160 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 17/40
+[INFO] Muy alta variación detectada (24.31%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 690,244
+Peor valor encontrado: 690,244
+Tiempo de ejecución: 0.022560 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 18/40
+[INFO] Muy alta variación detectada (23.50%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 552,884
+Peor valor encontrado: 552,884
+Tiempo de ejecución: 0.022541 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 19/40
+[INFO] Muy alta variación detectada (23.24%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 892,114
+Peor valor encontrado: 803,405
+Tiempo de ejecución: 0.021958 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 20/40
+[INFO] Muy alta variación detectada (23.82%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 843,492
+Peor valor encontrado: 843,492
+Tiempo de ejecución: 0.022811 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 21/40
+[INFO] Muy alta variación detectada (23.73%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 933,760
+Peor valor encontrado: 845,051
+Tiempo de ejecución: 0.022344 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 22/40
+[INFO] Muy alta variación detectada (24.31%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 676,153
+Peor valor encontrado: 676,153
+Tiempo de ejecución: 0.022229 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 23/40
+[INFO] Muy alta variación detectada (23.72%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 537,804
+Peor valor encontrado: 537,804
+Tiempo de ejecución: 0.022193 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 24/40
+[INFO] Muy alta variación detectada (23.78%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 558,347
+Peor valor encontrado: 558,347
+Tiempo de ejecución: 0.022842 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 25/40
+[INFO] Muy alta variación detectada (23.67%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 896,965
+Peor valor encontrado: 734,158
+Tiempo de ejecución: 0.022120 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 26/40
+[INFO] Muy alta variación detectada (23.86%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 843,819
+Peor valor encontrado: 666,401
+Tiempo de ejecución: 0.022586 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 27/40
+[INFO] Muy alta variación detectada (23.66%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 1,038,644
+Peor valor encontrado: 760,697
+Tiempo de ejecución: 0.021978 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 28/40
+[INFO] Muy alta variación detectada (24.82%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 840,201
+Peor valor encontrado: 840,201
+Tiempo de ejecución: 0.023177 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 29/40
+[INFO] Muy alta variación detectada (24.49%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 449,214
+Peor valor encontrado: 449,214
+Tiempo de ejecución: 0.022240 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 30/40
+[INFO] Muy alta variación detectada (25.26%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 315,380
+Peor valor encontrado: 315,380
+Tiempo de ejecución: 0.022876 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 31/40
+[INFO] Muy alta variación detectada (27.23%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 834,496
+Peor valor encontrado: 738,576
+Tiempo de ejecución: 0.022329 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 32/40
+[INFO] Muy alta variación detectada (26.89%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 715,990
+Peor valor encontrado: 531,361
+Tiempo de ejecución: 0.022579 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 33/40
+[INFO] Muy alta variación detectada (26.42%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 643,968
+Peor valor encontrado: 548,048
+Tiempo de ejecución: 0.022910 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 34/40
+[INFO] Muy alta variación detectada (26.08%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 537,804
+Peor valor encontrado: 537,804
+Tiempo de ejecución: 0.022239 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 35/40
+[INFO] Muy alta variación detectada (26.10%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 884,607
+Peor valor encontrado: 788,687
+Tiempo de ejecución: 0.023052 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 36/40
+[INFO] Muy alta variación detectada (25.99%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 796,014
+Peor valor encontrado: 618,596
+Tiempo de ejecución: 0.022442 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 37/40
+[INFO] Muy alta variación detectada (25.64%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 768,470
+Peor valor encontrado: 704,032
+Tiempo de ejecución: 0.022770 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 38/40
+[INFO] Muy alta variación detectada (25.28%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 954,060
+Peor valor encontrado: 865,351
+Tiempo de ejecución: 0.022657 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 39/40
+[INFO] Muy alta variación detectada (25.44%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 536,278
+Peor valor encontrado: 536,278
+Tiempo de ejecución: 0.022963 segundos
+Iteraciones totales: 5370
+
+[Config A] Ejecución 40/40
+[INFO] Muy alta variación detectada (25.52%). Usando 5370 iteraciones.
+
+Mejor valor encontrado: 487,102
+Peor valor encontrado: 487,102
+Tiempo de ejecución: 0.022398 segundos
+Iteraciones totales: 5370
+
+==================================================
+Resumen Estadístico de las Ejecuciones
+==================================================
+Valor promedio: 687,940
+Mejor valor: 1,038,644
+Peor valor: 315,380
+Desviación estándar de valores: 177,625.72
+
+Tiempo promedio: 0.0191 segundos
+Iteraciones promedio: 4,528
+
+Iteración de la mejor solución: 27
+Iteración de la peor solución: 30
+
+==================================================
+Mejor Solución Encontrada en Todas las Ejecuciones
+==================================================
+Item 1.0: 3 unidades - Peso: 1.803 kg - Valor: $79,293
+Item 3.0: 1 unidades - Peso: 0.886 kg - Valor: $53,997
+Item 4.0: 1 unidades - Peso: 0.827 kg - Valor: $50,161
+Item 6.0: 3 unidades - Peso: 1.014 kg - Valor: $266,127
+Item 7.0: 2 unidades - Peso: 1.744 kg - Valor: $128,876
+Item 8.0: 2 unidades - Peso: 2.376 kg - Valor: $172,430
+Item 9.0: 3.0 unidades - Peso: 1.326 kg - Valor: $287,760
+
+Peso total: 9.976 kg / 10 kg
+Valor total: $1,038,644
+
+==================================================
+Peor Solución Encontrada en Todas las Ejecuciones
+==================================================
+Item 1.0: 2 unidades - Peso: 1.202 kg - Valor: $52,862
+Item 2.0: 2 unidades - Peso: 1.622 kg - Valor: $50,698
+Item 5.0: 4 unidades - Peso: 6.892 kg - Valor: $211,820
+
+Peso total: 9.716 kg / 10 kg
+Valor total: $315,380
+
+============================================================
+  INICIANDO EJECUCIONES PARA: Config B
+============================================================
+
+[Config B] Ejecución 1/40
+
+Mejor valor encontrado: 752,992
+Peor valor encontrado: 727,643
+Tiempo de ejecución: 0.008340 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 2/40
+
+Mejor valor encontrado: 834,661
+Peor valor encontrado: 783,963
+Tiempo de ejecución: 0.008202 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 3/40
+
+Mejor valor encontrado: 573,110
+Peor valor encontrado: 573,110
+Tiempo de ejecución: 0.008406 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 4/40
+
+Mejor valor encontrado: 771,479
+Peor valor encontrado: 675,559
+Tiempo de ejecución: 0.008294 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 5/40
+
+Mejor valor encontrado: 720,688
+Peor valor encontrado: 624,768
+Tiempo de ejecución: 0.008490 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 6/40
+
+Mejor valor encontrado: 609,284
+Peor valor encontrado: 513,364
+Tiempo de ejecución: 0.008409 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 7/40
+
+Mejor valor encontrado: 856,364
+Peor valor encontrado: 856,364
+Tiempo de ejecución: 0.008461 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 8/40
+
+Mejor valor encontrado: 780,335
+Peor valor encontrado: 730,174
+Tiempo de ejecución: 0.008637 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 9/40
+
+Mejor valor encontrado: 788,296
+Peor valor encontrado: 723,858
+Tiempo de ejecución: 0.008057 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 10/40
+
+Mejor valor encontrado: 799,147
+Peor valor encontrado: 799,147
+Tiempo de ejecución: 0.008369 segundos
+Iteraciones totales: 2000
+
+[Config B] Ejecución 11/40
+[INFO] Variación aceptable (12.25%). Usando 4000 iteraciones.
+
+Mejor valor encontrado: 584,738
+Peor valor encontrado: 584,738
+Tiempo de ejecución: 0.016800 segundos
+Iteraciones totales: 4000
+
+[Config B] Ejecución 12/40
+[INFO] Variación aceptable (13.64%). Usando 4000 iteraciones.
+
+Mejor valor encontrado: 678,271
+Peor valor encontrado: 678,271
+Tiempo de ejecución: 0.016142 segundos
+Iteraciones totales: 4000
+
+[Config B] Ejecución 13/40
+[INFO] Variación aceptable (13.27%). Usando 4000 iteraciones.
+
+Mejor valor encontrado: 721,896
+Peor valor encontrado: 633,187
+Tiempo de ejecución: 0.016610 segundos
+Iteraciones totales: 4000
+
+[Config B] Ejecución 14/40
+[INFO] Variación aceptable (12.71%). Usando 4000 iteraciones.
+
+Mejor valor encontrado: 496,122
+Peor valor encontrado: 496,122
+Tiempo de ejecución: 0.016975 segundos
+Iteraciones totales: 4000
+
+[Config B] Ejecución 15/40
+[INFO] Alta variación detectada (15.24%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 576,893
+Peor valor encontrado: 497,547
+Tiempo de ejecución: 0.018728 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 16/40
+[INFO] Alta variación detectada (15.68%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 767,193
+Peor valor encontrado: 678,484
+Tiempo de ejecución: 0.018637 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 17/40
+[INFO] Alta variación detectada (15.24%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 414,692
+Peor valor encontrado: 318,772
+Tiempo de ejecución: 0.019969 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 18/40
+[INFO] Alta variación detectada (18.28%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 872,564
+Peor valor encontrado: 872,564
+Tiempo de ejecución: 0.021717 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 19/40
+[INFO] Alta variación detectada (18.53%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 736,869
+Peor valor encontrado: 596,917
+Tiempo de ejecución: 0.018456 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 20/40
+[INFO] Alta variación detectada (18.00%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 562,522
+Peor valor encontrado: 562,522
+Tiempo de ejecución: 0.019419 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 21/40
+[INFO] Alta variación detectada (18.25%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 742,540
+Peor valor encontrado: 742,540
+Tiempo de ejecución: 0.018698 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 22/40
+[INFO] Alta variación detectada (17.80%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 606,659
+Peor valor encontrado: 510,739
+Tiempo de ejecución: 0.018307 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 23/40
+[INFO] Alta variación detectada (17.69%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 822,181
+Peor valor encontrado: 733,472
+Tiempo de ejecución: 0.018562 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 24/40
+[INFO] Alta variación detectada (17.57%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 714,487
+Peor valor encontrado: 618,567
+Tiempo de ejecución: 0.018725 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 25/40
+[INFO] Alta variación detectada (17.18%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 631,083
+Peor valor encontrado: 631,083
+Tiempo de ejecución: 0.018983 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 26/40
+[INFO] Alta variación detectada (16.99%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 669,937
+Peor valor encontrado: 669,937
+Tiempo de ejecución: 0.019041 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 27/40
+[INFO] Alta variación detectada (16.69%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 741,127
+Peor valor encontrado: 645,207
+Tiempo de ejecución: 0.018508 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 28/40
+[INFO] Alta variación detectada (16.38%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 809,057
+Peor valor encontrado: 720,348
+Tiempo de ejecución: 0.019395 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 29/40
+[INFO] Alta variación detectada (16.26%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 562,616
+Peor valor encontrado: 447,476
+Tiempo de ejecución: 0.018949 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 30/40
+[INFO] Alta variación detectada (16.50%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 725,781
+Peor valor encontrado: 672,919
+Tiempo de ejecución: 0.018931 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 31/40
+[INFO] Alta variación detectada (16.21%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 765,939
+Peor valor encontrado: 551,584
+Tiempo de ejecución: 0.018709 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 32/40
+[INFO] Alta variación detectada (15.98%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 691,541
+Peor valor encontrado: 543,150
+Tiempo de ejecución: 0.018636 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 33/40
+[INFO] Alta variación detectada (15.73%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 736,807
+Peor valor encontrado: 640,887
+Tiempo de ejecución: 0.018771 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 34/40
+[INFO] Alta variación detectada (15.48%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 645,420
+Peor valor encontrado: 645,420
+Tiempo de ejecución: 0.019141 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 35/40
+[INFO] Alta variación detectada (15.34%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 661,225
+Peor valor encontrado: 572,516
+Tiempo de ejecución: 0.018600 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 36/40
+[INFO] Alta variación detectada (15.16%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 451,456
+Peor valor encontrado: 451,456
+Tiempo de ejecución: 0.018762 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 37/40
+[INFO] Alta variación detectada (16.22%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 603,902
+Peor valor encontrado: 507,982
+Tiempo de ejecución: 0.018569 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 38/40
+[INFO] Alta variación detectada (16.18%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 450,992
+Peor valor encontrado: 450,992
+Tiempo de ejecución: 0.018629 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 39/40
+[INFO] Alta variación detectada (17.07%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 703,884
+Peor valor encontrado: 703,884
+Tiempo de ejecución: 0.018819 segundos
+Iteraciones totales: 4500
+
+[Config B] Ejecución 40/40
+[INFO] Alta variación detectada (16.84%). Usando 4500 iteraciones.
+
+Mejor valor encontrado: 649,907
+Peor valor encontrado: 649,907
+Tiempo de ejecución: 0.018946 segundos
+Iteraciones totales: 4500
+
+==================================================
+Resumen Estadístico de las Ejecuciones
+==================================================
+Valor promedio: 682,116
+Mejor valor: 872,564
+Peor valor: 414,692
+Desviación estándar de valores: 113,644.83
+
+Tiempo promedio: 0.0161 segundos
+Iteraciones promedio: 3,825
+
+Iteración de la mejor solución: 18
+Iteración de la peor solución: 17
+
+==================================================
+Mejor Solución Encontrada en Todas las Ejecuciones
+==================================================
+Item 1.0: 3 unidades - Peso: 1.803 kg - Valor: $79,293
+Item 3.0: 4 unidades - Peso: 3.544 kg - Valor: $215,988
+Item 4.0: 1 unidades - Peso: 0.827 kg - Valor: $50,161
+Item 6.0: 1 unidades - Peso: 0.338 kg - Valor: $88,709
+Item 7.0: 1 unidades - Peso: 0.872 kg - Valor: $64,438
+Item 8.0: 1 unidades - Peso: 1.188 kg - Valor: $86,215
+Item 9.0: 3 unidades - Peso: 1.326 kg - Valor: $287,760
+
+Peso total: 9.898 kg / 10 kg
+Valor total: $872,564
+
+==================================================
+Peor Solución Encontrada en Todas las Ejecuciones
+==================================================
+Item 3.0: 1 unidades - Peso: 0.886 kg - Valor: $53,997
+Item 5.0: 5 unidades - Peso: 8.615 kg - Valor: $264,775
+Item 9.0: 1 unidades - Peso: 0.442 kg - Valor: $95,920
+
+Peso total: 9.943 kg / 10 kg
+Valor total: $414,692
+
+[INFO] Gráfica guardada como: graficas_resultados\comparacion_configuraciones.png
